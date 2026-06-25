@@ -7,6 +7,7 @@ use Livewire\Component;
 class LiveWireComponent extends Component
 {
     public $counter = 1;
+    public $test =1;
 
     public function render()
     {
